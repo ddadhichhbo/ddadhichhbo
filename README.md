@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ddadhichhbo
-- 👀 I’m interested in designing and developing futurastic and advance application to benefit the world.
+- 👋 Hi, I’m Dhanraj Dadhich @ddadhichhbo
+- 👀 I’m interested in designing and developing futuristic and advance application to benefit the world.
 - 🌱 I’m currently learning Quantum Flux / Quantum Data Architecture
 - 💞️ I’m looking to collaborate on Application Design and Development
 - 📫 How to reach me +918886476456
